@@ -18,6 +18,8 @@ void fillArray(int a[], int n) {
 }
 
 // prints array 
+// pull
+
 
 /* a - integer array
 * const makes read only
